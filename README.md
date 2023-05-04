@@ -1,0 +1,2 @@
+# pyrepo
+deneme icindir
