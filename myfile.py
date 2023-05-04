@@ -1,5 +1,1 @@
-sad
-asd
-asd
-a
-dasd
+import os
