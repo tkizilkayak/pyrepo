@@ -1,2 +1,2 @@
 # pyrepo
-deneme icindir
+deneme icindir..
